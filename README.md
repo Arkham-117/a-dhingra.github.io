@@ -42,7 +42,7 @@ Courses:
 ## WORK/VOLUNTEER EXPERIENCE
 **Volunteer**  
 *Jun 2020 – Nov 2021*  
-[Science of Spirituality](https://www.example-link.com)  
+[Science of Spirituality](https://www.sos.org)  
 *Toronto, ON*  
 
 - Produced and edited captivating video content for Instagram and Facebook posts, resulting in enhanced engagement and brand visibility.
@@ -52,7 +52,7 @@ Courses:
 
 **Blog Writer**  
 *Apr 2018 – Jun 2018*  
-[Absolute Nutrition](https://www.example-link.com)  
+[Absolute Nutrition](https://www.absolutenutrition4you.com/)  
 *Brampton, ON*  
 
 - Crafted informative and engaging original content, enriching the organization’s blog with high-quality articles on nutrition, wellness, and healthy living.
