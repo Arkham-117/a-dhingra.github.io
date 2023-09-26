@@ -80,7 +80,7 @@ Courses:
 - Developed the typography (primary/secondary fonts, font sizes, text styling, element styling, alerts styling, paragraphs/headers).
 - Created an animated gauge and pie chart using D3.js that retrieves and displays data from a CSV file.
 
-**To-Do App**  
+**Task Management App**  
 [Demo](https://my-cute-notes.vercel.app/) | [Source Code](https://drive.google.com/file/d/13AGQuxMA6URHO_r6SM9IcndXfxXHE1ph/view?usp=sharing)  
 *Tech Stack: JavaScript, HTML, CSS, React.js*  
 
