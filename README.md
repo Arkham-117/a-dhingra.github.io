@@ -1,5 +1,5 @@
 # Anantdeep Dhingra
-LinkedIn | GitHub  
+[LinkedIn](https://www.linkedin.com/in/anantdeep-dhingra/) | [GitHub](https://github.com/Arkham-117)  
 Email: anantdeepdhingra@gmail.com  
 Phone: 226-224-1424
 
@@ -14,7 +14,7 @@ I am a full-stack web developer with knowledge of popular frameworks such as Rea
 ## WORK/VOLUNTEER EXPERIENCE
 **Volunteer**  
 *Jun 2020 – Nov 2021*  
-*Science of Spirituality*  
+[Science of Spirituality](https://www.example-link.com)  
 *Toronto, ON*  
 
 - Produced and edited captivating video content for Instagram and Facebook posts, resulting in enhanced engagement and brand visibility.
@@ -24,7 +24,7 @@ I am a full-stack web developer with knowledge of popular frameworks such as Rea
 
 **Blog Writer**  
 *Apr 2018 – Jun 2018*  
-*Absolute Nutrition*  
+[Absolute Nutrition](https://www.example-link.com)  
 *Brampton, ON*  
 
 - Crafted informative and engaging original content, enriching the organization’s blog with high-quality articles on nutrition, wellness, and healthy living.
@@ -33,7 +33,7 @@ I am a full-stack web developer with knowledge of popular frameworks such as Rea
 
 ## PROJECTS
 **FireChat**  
-*Source Code Available*  
+[Demo](https://firechat-rho.vercel.app/) | [Source Code](https://github.com/Arkham-117/firechat)  
 *Tech Stack: React.js, Firebase, JavaScript, HTML, CSS*  
 
 - A chat application that enables users to send messages and connect with others via their Google accounts.
@@ -43,7 +43,7 @@ I am a full-stack web developer with knowledge of popular frameworks such as Rea
 - Ensured the app was secure and scalable by following best practices for handling user authentication and managing state in React.
 
 **FenixWing Custom UI Kit**  
-*Source Code Available*  
+[Demo](https://ui-project1.vercel.app/) | [Source Code](https://github.com/Arkham-117/FenixWing-UI-Kit)  
 *Tech Stack: JavaScript, HTML, CSS, D3.js*  
 
 - Helped create a UI Kit as part of a group project.
@@ -51,7 +51,7 @@ I am a full-stack web developer with knowledge of popular frameworks such as Rea
 - Created an animated gauge and pie chart using D3.js that retrieves and displays data from a CSV file.
 
 **To-Do App**  
-*Source Code Available*  
+[Demo](https://my-cute-notes.vercel.app/) | [Source Code](https://drive.google.com/file/d/13AGQuxMA6URHO_r6SM9IcndXfxXHE1ph/view?usp=sharing)  
 *Tech Stack: JavaScript, HTML, CSS, React.js*  
 
 - Collaborated with a cross-functional team of 5 developers to create a robust notes application, effectively utilizing Agile methodologies across 3 sprints, each spanning 2 weeks.
@@ -59,6 +59,11 @@ I am a full-stack web developer with knowledge of popular frameworks such as Rea
 - Connected the app to a Firebase database to store all notes and user information and created the logout functionality.
 
 ## EDUCATION
+**Fanshawe College**  
+*London, ON*  
+*Ontario College Graduate Certificate, Network Security and Architecture*  
+*Sep 2023 - Present*  
+
 **Fanshawe College**  
 *London, ON*  
 *Diploma, Internet Applications and Web Development*  
