@@ -3,13 +3,41 @@
 Email: anantdeepdhingra@gmail.com  
 Phone: 226-224-1424
 
-## FULL STACK DEVELOPER
-I am a full-stack web developer with knowledge of popular frameworks such as React, Angular, and experience with databases such as Firebase.
+## PROFILE
+I am a skilled professional with experience in web development and cybersecurity. My knowledge spans various technologies and frameworks, making me a versatile candidate for a wide range of projects and roles.
 
 ## TECHNICAL SKILLS
 - Languages: JavaScript, HTML, CSS, PHP
 - Frameworks: React.js, Angular, Vue.js
 - Databases: Firebase, MySQL, MongoDB
+
+### Cybersecurity:
+- Server Security: Server Hardening Techniques, Encryption Implementation, Identity Management, Large-Scale OS-Level Network Traffic Security
+- Advanced Features: Identity Manager, Certificate Authority, Threat Detection, Log Analysis, Security Policies, File Services
+- Network Security: Network Security Configuration, Network Management, Network Protocols, Data Transmission in Networks, Technology-Driven Environment
+
+## EDUCATION
+**Fanshawe College**  
+*London, ON*  
+*Ontario College Graduate Certificate, Network Security and Architecture*  
+*Sep 2023 - Present*  
+
+**Fanshawe College**  
+*London, ON*  
+*Diploma, Internet Applications and Web Development*  
+*Sep 2021 - April 2023*  
+
+Courses:
+- UI Development
+- DevOps/Agile Fundamentals
+- JavaScript/CSS/HTML
+- CMS Web Development (WordPress)
+- Web Security
+
+**University of Waterloo**  
+*Waterloo, ON*  
+*Certificate, Advanced Web Pages*  
+*February 2023*
 
 ## WORK/VOLUNTEER EXPERIENCE
 **Volunteer**  
@@ -58,25 +86,3 @@ I am a full-stack web developer with knowledge of popular frameworks such as Rea
 - Demonstrated strong time management by consistently contributing 10 hours per week, leading to the successful completion of 70 tasks distributed evenly among team members in the Jira backlog.
 - Connected the app to a Firebase database to store all notes and user information and created the logout functionality.
 
-## EDUCATION
-**Fanshawe College**  
-*London, ON*  
-*Ontario College Graduate Certificate, Network Security and Architecture*  
-*Sep 2023 - Present*  
-
-**Fanshawe College**  
-*London, ON*  
-*Diploma, Internet Applications and Web Development*  
-*Sep 2021 - April 2023*  
-
-Courses:
-- UI Development
-- DevOps/Agile Fundamentals
-- JavaScript/CSS/HTML
-- CMS Web Development (WordPress)
-- Web Security
-
-**University of Waterloo**  
-*Waterloo, ON*  
-*Certificate, Advanced Web Pages*  
-*February 2023*
