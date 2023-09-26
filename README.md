@@ -7,6 +7,8 @@ Phone: 226-224-1424
 I am a skilled professional with experience in web development and cybersecurity. My knowledge spans various technologies and frameworks, making me a versatile candidate for a wide range of projects and roles.
 
 ## TECHNICAL SKILLS
+
+### Web Development:
 - Languages: JavaScript, HTML, CSS, PHP
 - Frameworks: React.js, Angular, Vue.js
 - Databases: Firebase, MySQL, MongoDB
